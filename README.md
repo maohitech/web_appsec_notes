@@ -35,8 +35,8 @@ A portable list of security tools collected from conferences and books.
 **youget**: https://www.yougetsignal.com/tools/web-sites-on-web-server/  
 **domainbigdata**: https://domainbigdata.com/  
 **wolfram**: http://www.wolframalpha.com/ 
-**virustotal**: https://www.virustotal.com/#/home/search
-**knockpy (i)**: https://github.com/guelfoweb/knock 
+**virustotal**: https://www.virustotal.com/#/home/search  
+**knockpy (i)**: https://github.com/guelfoweb/knock  
 **hostiletakeover**: https://github.com/nahamsec/HostileSubBruteforcer  
 
 ### Social Network:
@@ -48,7 +48,7 @@ inteltechniques: https://inteltechniques.com/menu.html
 **zoomeye**: https://www.zoomeye.org  
 **buildwith**: https://builtwith.com/  
 **wappalyzer**: https://www.wappalyzer.com/  
-**urlscan**: https://urlscan.io/
+**urlscan**: https://urlscan.io/  
 **asafaweb**: https://asafaweb.com/
 
 ### Tools:
