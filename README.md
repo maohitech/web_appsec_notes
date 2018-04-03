@@ -17,8 +17,8 @@ A list of security tools
 **viewdns**: http://viewdns.info/reversewhois/  
 **youget**: https://www.yougetsignal.com/tools/web-sites-on-web-server/  
 **domainbigdata**: https://domainbigdata.com/  
-**wolfram**: http://www.wolframalpha.com/ 
-**virustotal**: https://www.virustotal.com/#/home/search
+**wolfram**: http://www.wolframalpha.com/  
+**virustotal**: https://www.virustotal.com/#/home/search  
 **knockpy (i)**: https://github.com/guelfoweb/knock 
 
 ### Technology scanners:
