@@ -34,7 +34,7 @@ A portable list of security tools collected from conferences and books.
 **viewdns**: http://viewdns.info/reversewhois/  
 **youget**: https://www.yougetsignal.com/tools/web-sites-on-web-server/  
 **domainbigdata**: https://domainbigdata.com/  
-**wolfram**: http://www.wolframalpha.com/ 
+**wolfram**: http://www.wolframalpha.com/  
 **virustotal**: https://www.virustotal.com/#/home/search  
 **knockpy (i)**: https://github.com/guelfoweb/knock  
 **hostiletakeover**: https://github.com/nahamsec/HostileSubBruteforcer  
