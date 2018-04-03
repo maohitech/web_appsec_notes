@@ -45,8 +45,8 @@ inteltechniques: https://inteltechniques.com/menu.html
 ### Technology scanners:
 **shodan**: https://www.shodan.io/  
 **censys**: https://censys.io/  
-**zoomeye**: https://www.zoomeye.org
-**buildwith**: https://builtwith.com/
+**zoomeye**: https://www.zoomeye.org  
+**buildwith**: https://builtwith.com/  
 **wappalyzer**: https://www.wappalyzer.com/  
 **urlscan**: https://urlscan.io/
 **asafaweb**: https://asafaweb.com/
