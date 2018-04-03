@@ -1,12 +1,12 @@
 # sec_tools
 A list of security tools
 
-Enumeration:
+## Enumeration:
 ghdb: https://www.exploit-db.com/google-hacking-database/
 knockpy: https://github.com/guelfoweb/knock
 virustotal: https://www.virustotal.com/#/home/search
 
--Search engines:
+###Search engines:
 google: http://www.google.com/advanced_search
 who.is: https://who.is/
 yahoo: http://search.yahoo.com/search/options?fr=%20fp-top&p=
@@ -19,14 +19,14 @@ youget: https://www.yougetsignal.com/tools/web-sites-on-web-server/
 domainbigdata: https://domainbigdata.com/
 wolfram: http://www.wolframalpha.com/
 
-Exploit:
+##Exploit:
 exploit-db: https://www.exploit-db.com/browse/
 searchsploit: https://www.exploit-db.com/searchsploit/
 
-Binary
+##Binary
 x64dbg: https://sourceforge.net/projects/x64dbg/files/snapshots/
 
-Web Application
+##Web Application
 -General
 zap: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
 burp: https://portswigger.net/burp/communitydownload
