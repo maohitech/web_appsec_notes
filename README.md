@@ -25,16 +25,16 @@ A list of security tools
 **shodan**: https://www.shodan.io/  
 **censys**: https://censys.io/  
 **zoomeye**: https://www.zoomeye.org
-**buildwith**: https://builtwith.com/
+**buildwith**: https://builtwith.com/  
 **wappalyzer**: https://www.wappalyzer.com/  
-**urlscan**: https://urlscan.io/
+**urlscan**: https://urlscan.io/  
 **asafaweb**: https://asafaweb.com/
 
 ### Github:
 **github**: https://github.com/techgaun/github-dorks
 
 ### Darknet:
-**ahmia**: https://ahmia.fi/
+**ahmia**: https://ahmia.fi/  
 **grams7**: http://grams7enufi7jmdl.onion.to/
 
 ### Social Network:
