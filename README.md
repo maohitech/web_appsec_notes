@@ -7,15 +7,13 @@ A list of security tools
 **virustotal**: https://www.virustotal.com/#/home/search
 
 ### Search engines:
-**google**: http://www.google.com/advanced_search
-
-**who.is**: https://who.is/
-
-**yahoo**: http://search.yahoo.com/search/options?fr=%20fp-top&p=
-**yandex**: http://www.yandex.com/search/advanced?&lr=10558
-**dnsdumpster**: https://dnsdumpster.com/
-**searchdns**: https://searchdns.netcraft.com/
-**robtex**: https://www.robtex.com/
+**google**: http://www.google.com/advanced_search__
+**who.is**: https://who.is/__
+**yahoo**: http://search.yahoo.com/search/options?fr=%20fp-top&p=__
+**yandex**: http://www.yandex.com/search/advanced?&lr=10558__
+**dnsdumpster**: https://dnsdumpster.com/__
+**searchdns**: https://searchdns.netcraft.com/__
+**robtex**: https://www.robtex.com/__
 **viewdns**: http://viewdns.info/reversewhois/
 **youget**: https://www.yougetsignal.com/tools/web-sites-on-web-server/
 **domainbigdata**: https://domainbigdata.com/
