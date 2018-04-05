@@ -78,7 +78,8 @@ inteltechniques: https://inteltechniques.com/menu.html
 ## 0x04. Web Application
 ### General
 **zap (i)**: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project  
-**burp (i)**: https://portswigger.net/burp/communitydownload
+**burp (i)**: https://portswigger.net/burp/communitydownload  
+**cyberchef**: https://gchq.github.io/CyberChef
 
 ### Wordpress
 **wpvulndb**: https://wpvulndb.com/  
